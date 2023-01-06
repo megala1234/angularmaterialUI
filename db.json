@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "test1",
+      "category": "vegetables",
+      "freshness": "Brand New",
+      "price": 1000,
+      "comment": "This is a test product",
+      "date": "2022-12-05T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "sample",
+      "category": "electronics",
+      "freshness": "Second Hand",
+      "price": 500,
+      "comment": "tejscgs udgcjvds",
+      "date": "2022-12-28T05:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Iphone",
+      "category": "phone",
+      "freshness": "Brand New",
+      "price": 10000,
+      "comment": "brand new ",
+      "date": "2022-12-31T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Apple",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Fruit comment",
+      "date": "2022-12-02T05:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Carrot",
+      "category": "vegetables",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "veggies",
+      "date": "2022-12-12T05:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
